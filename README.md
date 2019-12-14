@@ -1,5 +1,5 @@
 # GTA-Decompiled-Scripts
-Decompiled scripts from GTA, most recent patch: 1.50 (current status - 112/953)
+Decompiled scripts from GTA, most recent patch: 1.50 (current status - 144/953)
 Thanks to z0rg for his decompiler, DrPrism for the improved freemode.ysc with hashes
 
 Instructions to reproduce:
